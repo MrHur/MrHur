@@ -56,7 +56,7 @@ MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 �
 
 ---
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=MrHur&theme=dark)
+![mazandi profile](https://github.com/MrHur/MrHur/api?handle=MrHur&theme=dark)
 <img src="http://mazandi.herokuapp.com/api?handle=MrHur&theme=dark"/>
 
 ---
