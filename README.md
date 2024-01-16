@@ -56,11 +56,6 @@ MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 �
 
 ---
 
-![mazandi profile](https://github.com/MrHur/MrHur/api?handle=MrHur&theme=dark)
-<img src="https://github.com/MrHur/MrHur/api?handle=MrHur&theme=dark"/>
-
----
-
 - Programming Language : Java 17
 - WEB : HTML5, CSS3, JavaScript 
 - IDE
