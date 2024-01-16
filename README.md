@@ -53,6 +53,12 @@ MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 �
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&labelColor=#232F3E)
 
+
+---
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+
 ---
 
 - Programming Language : Java 17
