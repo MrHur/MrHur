@@ -15,8 +15,7 @@ HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
 JAVA / Spring 을 사용한 Back-End 개발 과정(Eclipse 사용)
 <br>
 MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
-<br><br><br><br><br><br><br><br><br><br><br>
-
+<br>
 
 ---
 <br>
