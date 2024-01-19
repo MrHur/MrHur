@@ -7,10 +7,10 @@
 ## Cloud Java Web Application Developer Course
 ---
 안녕하세요, 저는 백엔드 개발자 그리디입니다.
+<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="300" height="300" >
 
 <br>
 HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
-<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="300" height="300" >
 <br>
 JAVA / Spring 을 사용한 Back-End 개발 과정(Eclipse 사용)
 <br>
