@@ -10,7 +10,7 @@
 　　　　안녕하세요, 저는 백엔드 개발자 그리디입니다.
 <br>
 <br>
-<br>
+<br><br><br><br><br><br>
 　　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
 <br>
 <br>
