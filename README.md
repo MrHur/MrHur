@@ -6,7 +6,7 @@
 
 ## Cloud Java Web Application Developer Course
 ---
-<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="300" height="300" >
+<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="left" width="300" height="300" >
 안녕하세요, 저는 백엔드 개발자 그리디입니다.
 
 <br>
