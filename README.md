@@ -15,6 +15,10 @@ JAVA / Spring 을 사용한 Back-End 개발 과정(Eclipse 사용)
 <br>
 MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
 
+<h1 align="right">
+    <img src="https://readyplayer.me/gallery/65aa2d947ef3b4543d7eec2a"/>
+</h1>
+
 ---
 <br>
 <div align="left"> 
