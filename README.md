@@ -15,7 +15,7 @@ JAVA / Spring 을 사용한 Back-End 개발 과정(Eclipse 사용)
 <br>
 MySQL/ AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
 
-<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="100" height="100" >
+<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="300" height="300" >
 
 
 ---
