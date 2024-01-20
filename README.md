@@ -65,7 +65,7 @@
 
 ---
 
-<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="left" width="300" height="300" >
+<img src="https://github.com/MrHur/MrHur/assets/79696786/f1f461c2-5509-4c42-adeb-7c4b4b4ed443/" align="right" width="300" height="300" >
 
 - Programming Language : Java 17
 - WEB : HTML5, CSS3, JavaScript 
@@ -73,6 +73,8 @@
   + Visual Studio Code
 - DataBase : MySQL
 - Deployment : AWS
+
+<br><br><br><br>
 
 ### Who am I ?
 ---
