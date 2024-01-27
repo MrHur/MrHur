@@ -75,7 +75,7 @@
   + Visual Studio Code
 - DataBase : MySQL
 - Deployment : AWS
-SADASD
+
 <br><br><br><br><br><br>
 
 ### Who am I ?
