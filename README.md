@@ -73,7 +73,7 @@
 - WEB : HTML5, CSS3, JavaScript 
 - IDE
   + Visual Studio Code
-- DataBase : MySQL
+- DataBase : MySQL, Oracle Database
 - Deployment : AWS
 
 <br><br><br><br><br><br>
