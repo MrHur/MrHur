@@ -29,7 +29,7 @@
 
 <br>
 
-![snake gif](https://github.com/MrHur/MrHur/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/MrHur/MrHur/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <br>
