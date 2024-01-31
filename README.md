@@ -27,7 +27,7 @@
 
 ---
 
-![Snake animation](https://github.com/MrHur/MrHur/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
 
 ---
 <br>
