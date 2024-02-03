@@ -12,11 +12,9 @@
 　　　안녕하세요, 저는 백엔드 개발자 그리디입니다.
 <br>
 <br><br>
-　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 
-   <br>
-   (VSCode 사용)
+　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
 <br>
-
+<br>
 <br>
 　　　JAVA / Spring 을 사용한 Back-End 개발 과정(Eclipse 사용)
 <br>
