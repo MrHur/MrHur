@@ -25,7 +25,7 @@
 <br><br><br><br><br>
 
 
----
+----
 
 <img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
 
