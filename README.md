@@ -91,7 +91,5 @@ BackEnd Developer Greedy입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHur&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHur)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
