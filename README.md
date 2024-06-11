@@ -90,7 +90,3 @@ BackEnd Developer Greedy입니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okstreet)](https://solved.ac/MrHur/CodingTest)<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHur&show_icons=true&theme=radical)
-
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrHur)
