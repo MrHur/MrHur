@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS 사용)
+　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ 사용)
 <br>
 <br>
 <br>
