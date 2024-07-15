@@ -5,7 +5,6 @@
 </h1>
 
 ## Cloud Java Web Application Developer Course 6
----
 
 
 <img src="https://github.com/MrHur/MrHur/assets/79696786/25b1e144-9f6d-445b-9733-0186202b2bba/" align="left" width="300" height="300" >
@@ -25,11 +24,9 @@
 <br><br><br><br><br>
 
 
------
 
 <img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
 
----
 <br>
 <div align="left"> 
   <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
