@@ -21,7 +21,7 @@
 <br><br><br><br><br>
 
 <br>
-<div style="margin-left: 330px;">
+
   <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,7 +31,7 @@
   <a href="https://www.notion.so/greedy92/2023-12-11-2024-06-18-7fb8b16a2d8d42c295adf44207bb966b" target="_blank">
      <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=%23000000"/> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+
 <br>
 
 
