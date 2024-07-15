@@ -21,7 +21,7 @@
 <br><br><br><br><br>
 
   <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="margin-right: 30px;" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="margin-right: 530px;" />
   </a>
   <a href="https://MrHur.github.io" >
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="margin-right: 10px;" target="_blank" /> 
