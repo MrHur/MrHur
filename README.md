@@ -21,10 +21,6 @@
 <br>　　　AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
 <br><br><br><br><br>
 
----
-
-<img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
-
 <br>
 <div align="left"> 
   <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
@@ -38,6 +34,12 @@
   </a>
 </div>
 <br>
+
+---
+
+<img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
+
+
 
 ***
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
