@@ -10,11 +10,11 @@
 <img src="https://github.com/MrHur/MrHur/assets/79696786/25b1e144-9f6d-445b-9733-0186202b2bba/" align="left" width="300" height="300" >
 　　　안녕하세요, 저는 백엔드 개발자 그리디입니다.
 <br>
-<br><br>
+
+<br>
 　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
 <br>
-<br>
-<br>
+
 　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ 사용)
 <br>
 <br>
@@ -23,7 +23,7 @@
 <br>　　　AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
 <br><br><br><br><br>
 
-
+---
 
 <img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
 
