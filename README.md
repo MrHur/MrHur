@@ -21,10 +21,10 @@
 <br><br><br><br><br>
 
   <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="margin-right: 30px;" />
   </a>
   <a href="https://MrHur.github.io" >
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="margin-right: 10px;" target="_blank" /> 
   </a>
   <a href="https://www.notion.so/greedy92/2023-12-11-2024-06-18-7fb8b16a2d8d42c295adf44207bb966b" target="_blank">
      <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=%23000000"/> 
