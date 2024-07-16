@@ -16,8 +16,8 @@
 
 　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ 사용)
 <br>
-　　　MariaDB / MySQL / Oracle Database 21c XE
-<br>　　　AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
+　　　MariaDB / MySQL / Oracle Database 21c XE 데이터베이스 
+<br>　　　AWS 등을 이용한 웹 배포 과정을 주로 담을 예정입니다.
 <br><br><br><br>
 <br>
 
@@ -31,6 +31,8 @@
 <a href="https://www.notion.so/greedy92/2023-12-11-2024-06-18-7fb8b16a2d8d42c295adf44207bb966b" target="_blank">
    <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=Notion&logoColor=white&labelColor=%23000000"/> 
 </a>
+
+<br>
 
 ---
 
