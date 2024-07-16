@@ -18,7 +18,7 @@
 <br>
 　　　MariaDB / MySQL / Oracle Database 21c XE
 <br>　　　AWS 등을 이용한 데이터베이스 및 웹 배포 과정을 주로 담을 예정입니다.
-<br><br><br>
+<br><br><br><br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
