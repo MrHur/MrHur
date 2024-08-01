@@ -57,7 +57,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=#F7DF1E)
 ![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=JQuery&logoColor=white&labelColor=0769AD)
 
-
+<br>
 
 ![Static Badge](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white&labelColor=#2C2255)
 ![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=#6DB33F)
