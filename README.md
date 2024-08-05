@@ -57,6 +57,10 @@
 <br/>
 
 ### Stack
+
+<img width="558" alt="image" src="https://github.com/user-attachments/assets/8a9ba2b9-647a-4698-a5ba-083643662cc9">
+
+
 ![Static Badge](https://img.shields.io/badge/Java-%230769AD?style=for-the-badge&logo=CoffeeScript&logoColor=white&labelColor=0769AD)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=#181717)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=#E34F26)
