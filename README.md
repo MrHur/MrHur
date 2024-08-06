@@ -36,12 +36,6 @@
 
 ---
 
-## Project
-
-### 세페스트 (SafeFast)
-### 펫핏 (PetFit)
-
----
 
 <img src="https://github.com/MrHur/MrHur/blob/output/github-snake-dark.svg" width="100%">
 
