@@ -85,11 +85,7 @@
 
 - Programming Language : Java 17.0.9
 - WEB : HTML5, CSS3, JavaScript 
-- IDE
-  + Visual Studio Code
-  + Cursor
-  + IntelliJ
-  + STS
+- IDE : Visual Studio Code(VSCode), Cursor, IntelliJ, STS
 - DataBase : MySQL, Oracle Database 21c XE
 - Deployment : AWS
 
