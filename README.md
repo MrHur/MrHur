@@ -17,7 +17,7 @@
 　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ 사용)
 <br>
 　　　MariaDB / MySQL / Oracle Database 21c XE 데이터베이스 
-<br>　　　AWS 등을 이용한 웹 배포 과정을 수료했습니다
+<br>　　　AWS 등을 이용한 웹 배포 과정을 수료했습니다.
 <br><br><br><br>
 <br>
 
