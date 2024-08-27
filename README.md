@@ -11,10 +11,10 @@
 <br>
 
 <br>
-　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode 사용)
+　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode, Cursor)
 <br>
 
-　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ 사용)
+　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ)
 <br>
 　　　MariaDB / MySQL / Oracle Database 21c XE 데이터베이스 
 <br>　　　AWS 등을 이용한 웹 배포 과정을 수료했습니다.
