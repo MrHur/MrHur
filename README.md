@@ -88,7 +88,7 @@ git filezilla apachetomcat springsecurity springboot mariaDB
 - Programming Language : Java 17.0.9
 - WEB : HTML5, CSS3, JavaScript 
 - IDE : Visual Studio Code(VSCode), CursorAI, IntelliJ, STS
-- DataBase : MySQL, Oracle Database 21c XE
+- Database : MySQL, Oracle Database 21c XE
 - Deployment : AWS EC2, S3
 
 <br><br><br><br><br><br>
