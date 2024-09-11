@@ -71,7 +71,7 @@
 <br>
 
 ![Static Badge](https://img.shields.io/badge/Git-%23E34F26?style=for-the-badge&logo=Git&logoColor=white&labelColor=#E34F26)
-![Static Badge](https://img.shields.io/badge/ApacheTomcat-%23F7DF1E?style=for-the-badge&logo=ApachTomcat&logoColor=white&labelColor=#F7DF1E)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![image](https://github.com/user-attachments/assets/c63aa7a2-3b1b-4962-aac7-c9942a09ece3)
 
 git filezilla apachetomcat springsecurity springboot mariaDB
