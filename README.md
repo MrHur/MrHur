@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:MrHur.Greedy92.ekzmemforhs3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 <a href="https://MrHur.github.io" >
    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
