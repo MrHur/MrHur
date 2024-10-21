@@ -11,7 +11,7 @@
 <br>
 
 <br>
-　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode, Cursor)
+　　　HTML5 / CSS3 / JavaScript 를 활용한 Front-End 개발 과정 (VSCode, CursorAI)
 <br>
 
 　　　JAVA / SpringBoot 을 사용한 Back-End 개발 과정(Eclipse/STS/IntelliJ)
