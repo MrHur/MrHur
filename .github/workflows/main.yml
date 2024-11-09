@@ -23,6 +23,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+          disable_cache: true  # 캐시를 비활성화하여 최신 커밋 내역 반영
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -30,5 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          # Use Personal Access Token (PAT) added as a GitHub secret, named GH_TOKEN
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
